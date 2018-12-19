@@ -1,0 +1,808 @@
+{
+  "fastingCure": {
+    "point": {
+      "pointId": "Master:84950",
+      "type": 0,
+      "name": "Sternschanze (Messe)",
+      "region": "Hamburg"
+    },
+    "prepPhase": [
+      {
+
+      }
+    ],
+    "programmTwoWeeks": [
+      { "day": 1,
+        "category":"starving",
+        "texts": {
+          "title": "1. Fastentag:",
+          "intro": "Das Fasten beginnt mit einer Darmreinigung - Dazu nimmt man 40 g Glaubersalz (Apotheke) auf einen halben bis 3/4 Liter Wasser - Danach sollte man sich 3-4 Stunden in der Nähe der Toilette aufhalten - Wichtig dabei ist wieder, den Tag in Ruhe anzugehen.",
+          "morning": "3 Tassen Kräuter-Tee dazu 200 ml Fruchtsaft gemischt mit 200 ml Mineralwasser.",
+          "midday": "3 Tassen Blasen- und Nierentee. (Um einer Übersäuerung vorzubeugen lutschen Sie eine Scheibe Zitrone.)",
+          "afternoon": "3 Tassen Früchte-Tee.",
+          "evening": "3 Tassen Säure-Basen-Tee.",
+          "motivation": ""
+        },
+        "groceryDayList": [
+          {"ingredient":"Glaubersalz"},
+          {"ingredient":"Wasser"},
+          {"ingredient":"Kräuter-Tee"},
+          {"ingredient":"Fruchtsaft"},
+          {"ingredient":"Blasen-und Nieren-Ttee"},
+          {"ingredient":"Zitrone"},
+          {"ingredient":"Früchte-Tee"},
+          {"ingredient":"Säure-Basen-Tee"},
+        ]
+      },
+      { "day": 2,
+        "category":"starving",
+        "texts": {
+          "title": "2. Fastentag:",
+          "intro": "",
+          "morning": "3 Tassen Früchte-Tee dazu 200 ml Fruchtsaft gemischt mit 200 ml Mineralwasser.",
+          "midday": "3 Tassen Leber-Galle-Tee. (Und lutschen Sie eine Scheibe Zitrone.)",
+          "afternoon": "3 Tassen Kräutertee.",
+          "evening": "3 Tassen Säure-Basen-Tee.",
+          "motivation": ""
+        },
+        "groceryDayList": [
+          {"ingredient":"Früchte-Tee"},
+          {"ingredient":"Fruchtsaft"},
+          {"ingredient":"Mineralwasser"},
+          {"ingredient":"Leber-Galle-Tee"},
+          {"ingredient":"Zitrone"},
+          {"ingredient":"Kräuter-Tee"},
+          {"ingredient":"Säure-Basen-Tee"}
+        ]
+      },
+      { "day": 3,
+        "category":"starving",
+        "texts": {
+          "title": "3. Fastentag:",
+          "intro": "",
+          "morning": "3 Tassen Kräutertee dazu 200 ml Fruchtsaft gemischt mit 200 ml Mineralwasser.",
+          "midday": "3 Tassen Durchspühlungstee. (Und lutschen Sie eine Scheibe Zitrone.)",
+          "afternoon": "3 Tassen Fencheltee.",
+          "evening": "3 Tassen Schlafteemischung.",
+          "motivation": ""
+        },
+        "groceryDayList": [
+          {"ingredient":"Kräutertee"},
+          {"ingredient":"Fruchtsaft"},
+          {"ingredient":"Mineralwasser"},
+          {"ingredient":"Durchspühlungstee"},
+          {"ingredient":"Zitrone"},
+          {"ingredient":"Fencheltee"},
+          {"ingredient":"Schlafteemischung"}
+        ]
+      },
+      { "day": 4,
+        "category":"starving",
+        "texts": {
+          "title": "4. Fastentag:",
+          "intro": "Darm entleeren! - Dabei müsse Sie nicht immer zu 'harten Abführmittel' wie Glaubersalz greifen - Auch 'weiche Abführmittel' wie Sauerkrautsaft  oder Apfelessig-Trink sollten eine Darmentleerung bewirken.",
+          "morning": "3 Tassen Kräutertee dazu 200 ml Fruchtsaft gemischt mit 200 ml Mineralwasser.",
+          "midday": "3 Tassen Blasen- und Nierentee. (Und lutschen Sie eine Scheibe Zitrone.)",
+          "afternoon": "3 Tassen Früchtetee.",
+          "evening": "3 Tassen Magentee.",
+          "motivation": ""
+        },
+        "groceryDayList": [
+          {"ingredient":"Abführmittel"},
+          {"ingredient":"Kräuter-Tee"},
+          {"ingredient":"Fruchtsaft"},
+          {"ingredient":"Mineralwasser"},
+          {"ingredient":"Blasen- und Nieren-Tee"},
+          {"ingredient":"Zitrone"},
+          {"ingredient":"Früchte-Tee"},
+          {"ingredient":"Magen-Tee"}
+        ]
+      },
+      { "day": 5,
+        "category":"starving",
+        "texts": {
+          "title": "5. Fastentag:",
+          "intro": "",
+          "morning": "3 Tassen Früchte-Tee dazu 200 ml Fruchtsaft gemischt mit 200 ml Mineralwasser.",
+          "midday": "3 Tassen Leber-Galle-Tee. (Und lutschen Sie eine Scheibe Zitrone.)",
+          "afternoon": "3 Tassen Fencheltee.",
+          "evening": "3 Tassen Säure-Basen-Tee.",
+          "motivation": ""
+        },
+        "groceryDayList": [
+          {"ingredient":"Früchtetee"},
+          {"ingredient":"Fruchtsaft"},
+          {"ingredient":"Mineralwasser"},
+          {"ingredient":"Leber-Gallen-Tee"},
+          {"ingredient":"Zitrone"},
+          {"ingredient":"Fenchel-Tee"},
+          {"ingredient":"Säure-Basen-Tee"}
+        ]
+      },
+      { "day": 6,
+        "category":"starving",
+        "texts": {
+          "title": "6. Fastentag:",
+          "intro": "",
+          "morning": "3 Tassen Kräutertee dazu 200 ml Fruchtsaft gemischt mit 200 ml Mineralwasser.",
+          "midday": "3 Tassen Durchspühlungstee. (Und lutschen Sie eine Scheibe Zitrone.)",
+          "afternoon": "3 Tassen Früchtetee.",
+          "evening": "3 Tassen Schlafteemischung.",
+          "motivation": ""
+        },
+        "groceryDayList": [
+          {"ingredient":"Kräutertee"},
+          {"ingredient":"Fruchtsaft"},
+          {"ingredient":"Mineralwasser"},
+          {"ingredient":"Durchspühlungstee"},
+          {"ingredient":"Zitrone"},
+          {"ingredient":"Früchtetee"},
+          {"ingredient":"Schlafteemischung"}
+        ]
+      },
+      { "day": 7,
+        "category":"starving",
+        "texts": {
+          "title": "7. Fastentag:",
+          "intro": "",
+          "morning": "3 Tassen Früchtetee dazu 200 ml Fruchtsaft gemischt mit 200 ml Mineralwasser.",
+          "midday": "3 Tassen Blasen- und Nieren-Tee. (Und lutschen Sie eine Scheibe Zitrone.)",
+          "afternoon": "3 Tassen Kamillen-Tee.",
+          "evening": "3 Tassen Magen-Tee.",
+          "motivation": ""
+        },
+        "groceryDayList": [
+          {"ingredient":"Früchtetee"},
+          {"ingredient":"Fruchtsaft"},
+          {"ingredient":"Mineralwasser"},
+          {"ingredient":"Blasen- und Nieren-Tee"},
+          {"ingredient":"Zitrone"},
+          {"ingredient":"Kamillen-Tee"},
+          {"ingredient":"Magen-Tee"}
+        ]
+      },
+      { "day": 8,
+        "category":"starving",
+        "texts": {
+          "title": "8. Fastentag:",
+          "intro": "Darm entleeren! - Dabei müsse Sie nicht immer zu 'harten Abführmittel' wie Glaubersalz greifen - Auch 'weiche Abführmittel' wie Sauerkrautsaft  oder Apfelessig-Trink sollten eine Darmentleerung bewirken.",
+          "morning": "3 Tassen Kräuter-Tee dazu 200 ml Fruchtsaft gemischt mit 200 ml Mineralwasser.",
+          "midday": "3 Tassen Leber-Galle-Tee. (Und lutschen Sie eine Scheibe Zitrone.)",
+          "afternoon": "3 Tassen Früchte-Tee.",
+          "evening": "3 Tassen Säure-Basen-Tee.",
+          "motivation": ""
+        },
+        "groceryDayList": [
+          {"ingredient":"Abführmittel"},
+          {"ingredient":"Kräuter-Tee"},
+          {"ingredient":"Fruchtsaft"},
+          {"ingredient":"Mineralwasser"},
+          {"ingredient":"Leber-Gallen-Tee"},
+          {"ingredient":"Zitrone"},
+          {"ingredient":"Früchte-Tee"},
+          {"ingredient":"Säure-Basen-Tee"}
+        ]
+      },
+      { "day": 9,
+        "category":"starving",
+        "texts": {
+          "title": "9. Fastentag:",
+          "intro": "",
+          "morning": "3 Tassen Früchte-Tee dazu 200 ml Fruchtsaft gemischt mit 200 ml Mineralwasser.",
+          "midday": "3 Tassen Durchspühlungs-Tee. (Und lutschen Sie eine Scheibe Zitrone).",
+          "afternoon": "3 Tassen Fenchel-Tee.",
+          "evening": "3 Tassen Johanniskraut-Tee.",
+          "motivation": ""
+        },
+        "groceryDayList": [
+          {"ingredient":"Früchte-Tee"},
+          {"ingredient":"Fruchtsaft"},
+          {"ingredient":"Mineralwasser"},
+          {"ingredient":"Durchspühlungs-Tee"},
+          {"ingredient":"Zitrone"},
+          {"ingredient":"Fenchel-Tee"},
+          {"ingredient":"Johanniskraut-Tee"}
+        ]
+      },
+      { "day": 10,
+        "category":"starving",
+        "texts": {
+          "title": "10. Fastentag:",
+          "intro": "",
+          "morning": "3 Tassen Kräuter-Tee dazu 200 ml Fruchtsaft gemischt mit 200 ml Mineralwasser.",
+          "midday": "3 Tassen Blasen- und Nieren-Tee. (Und lutschen Sie eine Scheibe Zitrone.)",
+          "afternoon": "3 Tassen Schlafteemischung.",
+          "evening": "3 Tassen Früchte-Tee.",
+          "motivation": ""
+        },
+        "groceryDayList": [
+          {"ingredient":"Kräuter-Tee"},
+          {"ingredient":"Fruchtsaft"},
+          {"ingredient":"Mineralwasser"},
+          {"ingredient":"Blasen- und Nieren-Tee"},
+          {"ingredient":"Zitrone"},
+          {"ingredient":"Schlafteemischung"},
+          {"ingredient":"Früchte-Tee"}
+        ]
+      },
+      { "day": 11,
+        "category":"starving",
+        "texts": {
+          "title": "11. Fastentag:",
+          "intro": "",
+          "morning": "3 Tassen Früchte-Tee dazu 200 ml Fruchtsaft gemischt mit 200 ml Mineralwasser.",
+          "midday": "3 Tassen Leber-Galle-Tee. (Und lutschen Sie eine Scheibe Zitrone.)",
+          "afternoon": "3 Tassen Kamillen-Tee.",
+          "evening": "3 Tassen Magen-Tee.",
+          "motivation": ""
+        },
+        "groceryDayList": [
+          {"ingredient":"Früchte-Tee"},
+          {"ingredient":"Fruchtsaft"},
+          {"ingredient":"Mineralwasser"},
+          {"ingredient":"Leber-Galle-Tee"},
+          {"ingredient":"Zitrone"},
+          {"ingredient":"Kamillen-Tee"},
+          {"ingredient":"Magen-Tee"}
+        ]
+      },
+      { "day": 12,
+        "category":"starving",
+        "texts": {
+          "title": "12. Fastentag:",
+          "intro": "",
+          "morning": "3 Tassen Früchte-Tee dazu 200 ml Fruchtsaft gemischt mit 200 ml Mineralwasser.",
+          "midday": "3 Tassen Durchspühlungs-Tee. (Und lutschen Sie eine Scheibe Zitrone.)",
+          "afternoon": "3 Tassen Kräuter-Tee.",
+          "evening": "3 Tassen Säure-Basen-Tee.",
+          "motivation": ""
+        },
+        "groceryDayList": [
+          {"ingredient":"Früchte-Tee"},
+          {"ingredient":"Fruchtsaft"},
+          {"ingredient":"Mineralwasser"},
+          {"ingredient":"Durchspühlungs-Tee"},
+          {"ingredient":"Zitrone"},
+          {"ingredient":"Kräuter-Tee"},
+          {"ingredient":"Säure-Basen-Tee"}
+        ]
+      },
+      { "day": 13,
+        "category":"starving",
+        "texts": {
+          "title": "13. Fastentag:",
+          "intro": "",
+          "morning": "3 Tassen Fenchel-Tee dazu 200 ml Fruchtsaft gemischt mit 200 ml Mineralwasser.",
+          "midday": "3 Tassen Blasen- und Nieren-Tee. (Und lutschen Sie eine Scheibe Zitrone.)",
+          "afternoon": "3 Tassen Früchte-Tee.",
+          "evening": "3 Tassen Johanniskraut-Tee.",
+          "motivation": ""
+        },
+        "groceryDayList": [
+          {"ingredient":"Fenchel-Tee"},
+          {"ingredient":"Fruchtsaft"},
+          {"ingredient":"Mineralwasser"},
+          {"ingredient":"Blasen- und Nieren-Tee"},
+          {"ingredient":"Zitrone"},
+          {"ingredient":"Früchte-Tee"},
+          {"ingredient":"Johanniskraut-Tee"}
+        ]
+      },
+      { "day": 14,
+        "category":"starving",
+        "texts": {
+          "title": "14. Fastentag:",
+          "intro": "Darm entleeren! - Dabei müsse Sie nicht immer zu 'harten Abführmittel' wie Glaubersalz greifen - Auch 'weiche Abführmittel' wie Sauerkrautsaft  oder Apfelessig-Trink sollten eine Darmentleerung bewirken.",
+          "morning": "3 Tassen Früchte-Tee dazu 200 ml Fruchtsaft gemischt mit 200 ml Mineralwasser.",
+          "midday": "3 Tassen Kamillen-Tee. (Und lutschen Sie eine Scheibe Zitrone.)",
+          "afternoon": "3 Tassen Kräuter-Tee.",
+          "evening": "3 Tassen Durchspühlungs-Tee.",
+          "motivation": ""
+        },
+        "groceryDayList": [
+          {"ingredient":"Abführmittel"},
+          {"ingredient":"Früchte-Tee"},
+          {"ingredient":"Fruchtsaft"},
+          {"ingredient":"Mineralwasser"},
+          {"ingredient":"Kamillen-Tee"},
+          {"ingredient":"Zitrone"},
+          {"ingredient":"Kräuter-Tee"},
+          {"ingredient":"Durchspühlungs-Tee"}
+        ]
+      },
+
+      { "day": 15,
+        "category":"buildup",
+        "texts": {
+          "title": "1. Aufbautag:",
+          "intro": "Trinken sie 2-3 Liter Mineralwasser und dazu 1 Liter Tee.",
+          "morning": "1 frischer Apfel. Wichtig: Klein schneiden!!",
+          "midday": "100 Gramm Naturjogurt (Magerstufe) gemischt mit 1 EL Leinsamen.",
+          "afternoon": "",
+          "evening": "Tomatensuppe. Wichtig: Selber zubereiten und nur wenig salzen.",
+          "motivation": ""
+        },
+        "groceryDayList": [
+          {"ingredient":"2-3l Mineralwasser"},
+          {"ingredient":"1l Tee"},
+          {"ingredient":"1 Apfel"},
+          {"ingredient":"100g Naturjogurt (Magerstufe)"},
+          {"ingredient":"1 EL Leinsamen"},
+          {"ingredient":"Tomatensuppe (250g Tomaten, wenig Salz)"}
+        ]
+      },
+      { "day": 16,
+        "category":"buildup",
+        "texts": {
+          "title": "2. Aufbautag:",
+          "intro": "Trinken sie 2-3 Liter Mineralwasser und dazu 1 Liter Tee.",
+          "morning": "1 frischer Apfel. Wichtig: Klein schneiden!!",
+          "midday": "Kleiner Rohkostsalat bestehend aus einer Tomate, Karotte und etwas ungesalzenem Sauerkraut.",
+          "afternoon": "",
+          "evening": "1 Scheibe Knäckebrot dünn bestrichen mit Magerquark.",
+          "motivation": ""
+        },
+        "groceryDayList": [
+          {"ingredient":"2-3l Mineralwasser"},
+          {"ingredient":"1l Tee"},
+          {"ingredient":"1 Apfel"},
+          {"ingredient":"Rohkostsalat (1 Tomate, 1 Karotte, wenig Sauerkraut)"},
+          {"ingredient":"1 Scheibe Knäckebrot"},
+          {"ingredient":"Magerquark"}
+        ]
+      },
+      { "day": 17,
+        "category":"buildup",
+        "texts": {
+          "title": "3. Aufbautag:",
+          "intro": "Trinken sie 2-3 Liter Mineralwasser und dazu 1 Liter Tee.",
+          "morning": "150 Gramm Naturjogurt (Magerstuft) gemischt mit 1 EL Leinsamen und 1 TL Knuspermüsli",
+          "midday": "Karottensuppe. Wichtig: Selber zubereiten und nur wenig salzen.",
+          "afternoon": "",
+          "evening": "1 Scheibe Knäckebrot dünn bestrichen mit Magerquark.",
+          "motivation": ""
+        },
+        "groceryDayList": [
+          {"ingredient":"2-3l Mineralwasser"},
+          {"ingredient":"1l Tee"},
+          {"ingredient":"150g Naturjogurt (Magerstuft)"},
+          {"ingredient":"1 EL Leinsamen"},
+          {"ingredient":"1 TL Knuspermüsli"},
+          {"ingredient":"Karottensuppe (125g Karotten, 1 Prise Salz)"},
+          {"ingredient":"1 Scheibe Knäckebrot"},
+          {"ingredient":"Magerquark"}
+        ]
+      },
+      { "day": 18,
+        "category":"buildup",
+        "texts": {
+          "title": "4. Aufbautag:",
+          "intro": "Trinken sie 2-3 Liter Mineralwasser und dazu 1 Liter Tee.",
+          "morning": "2 Scheiben Knäckebrot dünn bestrichen mit Magerquark.",
+          "midday": "1 Pellkartoffel mit Magerquark gemischt mit Kräutern. ",
+          "afternoon": "",
+          "evening": "kleiner Rohkostsalat bestehend aus einer Tomate, Karotte, Gurke und etwas ungesalzenem Sauerkraut.",
+          "motivation": ""
+        },
+        "groceryDayList": [
+          {"ingredient":"2-3l Mineralwasser"},
+          {"ingredient":"1l Tee"},
+          {"ingredient":"2 Scheiben Knäckebrot"},
+          {"ingredient":"Magerquark"},
+          {"ingredient":"1 mittelgroße Kartoffel"},
+          {"ingredient":"frische Kräuter"},
+          {"ingredient":"Rohkostsalat (1 Tomate, 1 Karotte, 1 Gurke, Sauerkraut)"}
+        ]
+      },
+      { "day": 19,
+        "category":"buildup",
+        "texts": {
+          "title": "5. Aufbautag:",
+          "intro": "Trinken sie 2-3 Liter Mineralwasser und dazu 1 Liter Tee.",
+          "morning": "1 Glas Buttermilch, 2 Scheiben Dinkelbrot mit Margarine und Kochschinken",
+          "midday": "Naturreis mit etwas gedünstetem Blumenkohl, Brokkoli, Tomaten und 1/2 Zwiebel.",
+          "afternoon": "",
+          "evening": "150 Gramm Magerquark mit Zitrone und Honig.",
+          "motivation": ""
+        },
+        "groceryDayList": [
+          {"ingredient":"2-3l Mineralwasser"},
+          {"ingredient":"1l Tee"},
+          {"ingredient":"1 Glas Buttermilch"},
+          {"ingredient":"2 Scheiben Dinkelbrot"},
+          {"ingredient":"Margarine"},
+          {"ingredient":"2 Scheiben Kochschinken"},
+          {"ingredient":"Naturreis"},
+          {"ingredient":"Blumenkohl"},
+          {"ingredient":"Brokkoli"},
+          {"ingredient":"Tomaten"},
+          {"ingredient":"1/2 Zwiebel"},
+          {"ingredient":"150g Magerquark"},
+          {"ingredient":"Zitrone"},
+          {"ingredient":"Honig"}
+        ]
+      },
+      { "day": 20,
+        "category":"buildup",
+        "texts": {
+          "title": "6. Aufbautag:",
+          "intro": "Trinken sie 2-3 Liter Mineralwasser und dazu 1 Liter Tee.",
+          "morning": "150 Gramm Naturjogurt (Magerstufe) mit 1 EL Leinsamen, 1 EL Knuspermüsli und 100 Gramm Obst - Dazu 1 Scheibe Vollkornbrot mit Margarine.",
+          "midday": "1 große Pellkartoffel mit Blattsalat und Tomate, Gurke. (Anmachen mit etwas Olivenöl.)",
+          "afternoon": "",
+          "evening": "2 Scheiben Knäckebrot mit Hüttenkäse.",
+          "motivation": ""
+        },
+        "groceryDayList": [
+          {"ingredient":"2-3l Mineralwasser"},
+          {"ingredient":"1l Tee"},
+          {"ingredient":"150g Naturjogurt (Magerstufe)"},
+          {"ingredient":"1 EL Leinsamen"},
+          {"ingredient":"1 EL Knuspermüsli"},
+          {"ingredient":"100g Obst"},
+          {"ingredient":"1 Scheibe Vollkornbrot"},
+          {"ingredient":"Margarine"},
+          {"ingredient":"1 große Kartoffel"},
+          {"ingredient":"Blattsalat"},
+          {"ingredient":"2 Tomaten"},
+          {"ingredient":"1/2 Gurke"},
+          {"ingredient":"etwas Olivenöl"},
+          {"ingredient":"2 Scheiben Knäckebrot"},
+          {"ingredient":"Hüttenkäse"}
+        ]
+      },
+      { "day": 21,
+        "category":"buildup",
+        "texts": {
+          "title": "7. Aufbautag:",
+          "intro": "Trinken sie 2-3 Liter Mineralwasser und dazu 1 Liter Tee.",
+          "morning": "2 Scheiben Vollkornbrot mit Margarine, Schnittkäse und Kochschinken dazu Ananas.",
+          "midday": "Putenbrust mit Kartoffelbrei.",
+          "afternoon": "",
+          "evening": "bunt gemischter Salat mit Balsamicoessig und Olivenöl(1:2).",
+          "motivation": ""
+        },
+        "groceryDayList": [
+          {"ingredient":"2-3l Mineralwasser"},
+          {"ingredient":"1l Tee"},
+          {"ingredient":"2 Scheiben Vollkornbrot"},
+          {"ingredient":"Margarine"},
+          {"ingredient":"Schnittkäse"},
+          {"ingredient":"Kochschinken"},
+          {"ingredient":"Ananas"},
+          {"ingredient":"ca. 100g Putenbrust"},
+          {"ingredient":"ca. 250g Kartoffelbrei (mit etwas Milch und evtl. wenig Butter)"},
+          {"ingredient":"bunter Salat (1/8 Gurke, 1/8 Bund Radieschen, 1 Paprikaschote, etwas Lauch, 1/4 Dose Mais, etwas Knoblauch)"},
+          {"ingredient":"Aceto balsamico"},
+          {"ingredient":"Olivenöl"}
+        ]
+      },
+    ],
+    "twoWeeksShoppingList":[
+      {"tea": [
+        { "item":"Blasen- und Nieren-Tee",
+          "amount": ""
+        },
+        { "item":"Durchspühlungs-Tee",
+          "amount": ""
+        },
+        { "item":"Früchte-Tee",
+          "amount": "40 g"
+        },
+        { "item":"Fenchel-Tee",
+          "amount": "x ml"
+        },
+        { "item":"Johanniskraut-Tee",
+          "amount": ""
+        },
+        { "item":"Kamillen-Tee",
+          "amount": "x Tassen"
+        },
+        { "item":"Kräuter-Tee",
+          "amount": "x Scheibe"
+        },
+        { "item":"Leber-Gallen-Tee",
+          "amount": "x Tassen"
+        },
+        { "item":"Magen-Tee",
+          "amount": "x Tassen"
+        },
+        { "item":"Säure-Basen-Tee",
+          "amount": ""
+        },
+        { "item":"Schlafteemischung",
+          "amount": ""
+        },
+      ]
+      },
+      {"misc": [
+        { "item":"Abführmittel",
+          "amount": ""
+        },
+        { "item":"Aceto balsamico",
+          "amount": ""
+        },
+        { "item":"Äpfel",
+          "amount": ""
+        },
+        { "item":"Ananas",
+          "amount": ""
+        },
+        { "item":"Buttermilch",
+          "amount": ""
+        },
+        { "item":"Blattsalat",
+          "amount": ""
+        },
+        { "item":"Blumenkohl",
+          "amount": ""
+        },
+        { "item":"Brokkoli",
+          "amount": ""
+        },
+        { "item":"Dinkelbrot",
+          "amount": ""
+        },
+        { "item":"Fruchtsaft",
+          "amount": "3 Tassen"
+        },
+        { "item":"Glaubersalz",
+          "amount": "x ml"
+        },
+        { "item":"Gurke",
+          "amount": ""
+        },
+        { "item":"Honig",
+          "amount": ""
+        },
+        { "item":"Hüttenkäse",
+          "amount": ""
+        },
+        { "item":"Käse",
+          "amount": ""
+        },
+        { "item":"Karotten",
+          "amount": ""
+        },
+        { "item":"Kartoffel",
+          "amount": ""
+        },
+        { "item":"Knäckebrot",
+          "amount": ""
+        },
+        { "item":"Knuspermüsli",
+          "amount": ""
+        },
+        { "item":"Knoblauch",
+          "amount": ""
+        },
+        { "item":"Kochschinken",
+          "amount": ""
+        },
+        { "item":"Kräuter",
+          "amount": ""
+        },
+        { "item":"Lauch",
+          "amount": ""
+        },
+        { "item":"Leinsamen",
+          "amount": ""
+        },
+        { "item":"Mais",
+          "amount": ""
+        },
+        { "item":"Magerquark",
+          "amount": ""
+        },
+        { "item":"Margarine",
+          "amount": ""
+        },
+        { "item":"Mineralwasser (natriumarm)",
+          "amount": "x Tassen"
+        },
+        { "item":"Milch",
+          "amount": ""
+        },
+        { "item":"Naturjogurt (Magerstufe)",
+          "amount": ""
+        },
+        { "item":"Naturreis",
+          "amount": ""
+        },
+        { "item":"Obst",
+          "amount": ""
+        },
+        { "item":"Olivenöl",
+          "amount": ""
+        },
+        { "item":"Paprika",
+          "amount": ""
+        },
+        { "item":"Putenbrust",
+          "amount": ""
+        },
+        { "item":"Radieschen",
+          "amount": ""
+        },
+        { "item":"Sauerkraut",
+          "amount": ""
+        },
+        { "item":"Tomaten",
+          "amount": ""
+        },
+        { "item":"Vollkornbrot",
+          "amount": ""
+        },
+        { "item":"Zitrone",
+          "amount": ""
+        },
+        { "item":"Zwiebel",
+          "amount": ""
+        }
+      ]
+      }
+    ],
+    "glossary": [
+      {
+        "category":"history",
+        "texts":
+        {
+          "title": "1. Fastentag:",
+          "intro": "",
+        }
+      },
+      {
+        "day": 2,
+        "category":"starving",
+        "texts":
+        {
+          "title": "2. Fastentag:",
+          "intro": "",
+          "morning": "3 Tassen Kräutertee dazu 200 ml Fruchtsaft gemischt mit 200 ml Mineralwasser.",
+          "midday": "3 Tassen Blasen- und Nierentee. (Um einer Übersäuerung vorzubeugen lutschen Sie eine Scheibe Zitrone.)",
+          "afternoon": "3 Tassen Früchtetee.",
+          "evening": "3 Tassen Säure-Basen-Tee.",
+          "quote": ""
+        },
+        "groceryDayList":
+        [
+          {"ingredient":"Glaubersalz"},
+          {"ingredient":"Wasser"},
+          {"ingredient":"Kräuter-Tee"},
+          {"ingredient":"Fruchtsaft"},
+          {"ingredient":"Blasen-und Nieren-Ttee"},
+          {"ingredient":"Zitrone"},
+          {"ingredient":"Früchte-Tee"},
+          {"ingredient":"Säure-Basen-Tee"},
+        ]
+      },
+    ],
+    "motivational":[
+      {"quotes":[
+        {
+          "title":"",
+          "text": ""
+        },
+        {
+          "title":"",
+          "text": ""
+        }
+      ]},
+      {"motivationFacts":[
+        { "title":"Kräutertee: ein wahrer Gesundheitsbooster",
+          "text": "Reife Hagebutten zählen zu den Vitamin C-reichsten Früchten überhaupt. Mit einem leckeren Hagebutten-Tee zeigst du der Erkältung die kalte Schulter."
+        },
+        { "title":"Du hast einen guten Geschmack!",
+          "text": "Täglich würzen wir unser Essen viel zu sehr..daran gewöhnen sich unsere Geschmacksnerven mit der Zeit. Durch das Fasten schärfst du deine Geschmacksnerven und wirst bei den Aufbautagen eine echte Geschmacksexplosion erleben! Allein dafür lohnt es sich doch schon."
+        },
+        { "title":"Du aktivierst die Selbstheilungskräfte deines Körpers!",
+          "text": "Durch die katabole (abbauende) Stoffwechsellage, die gerade durch deine minimalistische Nahrungsversorgung entsteht, werden eingelagerte Substanzen ausgeschieden (entschlackt)."
+        },
+        { "title":"Fühlst du dich großartig?!",
+          "text": "Gerade wird vermehrt Serotonin in deinem Gehirn freigesetzt, was die Stimmung aufhellt."
+        },
+        { "title":"Wie eine Feder..",
+          "text": "Da dein Körper beim Heilfasten aufgrund der wenigen zugeführten Kalorien deine Fettdepots angreift, nimmst du schnell ab. Doch gib acht das du nicht untergewichtig wirst! Dein Hausarzt steht dir sicher während dieser Zeit zur Seite - statte ihm/ihr doch mal einen Besuch ab."
+        },
+        { "title":"Du bist was du isst",
+          "text": "Dein Körper lernt beim Fasten, mit weniger Kalorien auszukommen, dein Magen verkleinert sich etwas. Nutze die Fastenzeit um dir über dein Ernährungsverhalten Gedanken zu machen – möglichst mit fachlicher Beratung."
+        },
+        { "title":"Gute Vorbereitung ist alles.",
+          "text": "Die Entlastungstage sind solwohl körperlich als auch seelisch die ideale Einstimmung auf die Fastenzeit. Spürst du shcon wie du dich leichter fühlst?"
+        },
+        { "title":"Selbstkasteiung?",
+          "text": "Die Entscheidung zum Heilfasten und Entschlacken muss freiwillig getroffen werden. Nur unter dieser Voraussetzung stuft 'das Bewertungszentrum in der Hirnrinde die Situation als 'nicht bedrohlich' ein' und verzichtet auf die Produktion von Stresshormonen (Hirnforscher Gerald Hüther)."
+        },
+        { "title":"Spürst du es?",
+          "text": "Der Kopf und die Darmflora kommen langsam zur Ruh Und Energie wird in deinem Körper frei...Man fühlt sich verbundener mit sich selbst, gelassener und offener. - ist das nicht wunderbar?"
+        },
+        { "title":"Eine heilsame Erkenntnis.",
+          "text": "Du brauchst bescheiden wenig für diese Ausgeglichenheit und innere Ruhe. Entledigst dich doch in dieser Phase auch gleich von einigem pysischen Ballast?"
+        },
+        { "title":"Mmmmh - wie schön.",
+          "text": "Eine wohltuende Körperpflege gehört zum Fastenprogramm dazu. Das Beautyprogramm hilft dir dabei, Ruheinseln in deinen Alltag zu integrieren: Minuten ganz für dich allein."
+        },
+        { "title":"Ein toller Start in den Tag!",
+          "text": "Genieße jeden Morgen der dir bleibt! Wenn die Sonne am Horizont hervorlukt und du dir den Schlaf aus den Augen reibst entscheide wie du dem Tag entgegentrittst. Fühlen sich sanfte Bewegungen statt extra starkem Kaffee nicht viel besser an?"
+        },
+        { "title":"Eine gute Entscheidung",
+          "text": "Begegne deinem täglichem Stress in Zukunft doch lieber mit kleinen Entspannungsinseln statt Zigaretten oder Süßkram. Du fühlst dich leichter und befreiter. Das Beste daran? - keinerlei Schamgefühl"
+        },
+        { "title":"",
+          "text": ""
+        },
+        { "title":"",
+          "text": ""
+        },
+        { "title":"",
+          "text": ""
+        },
+        { "title":"",
+          "text": ""
+        },
+      ]
+      },
+      {"morningMotivation":[
+        {
+          "title":"",
+          "text": ""
+        },
+        {
+          "title":"",
+          "text": ""
+        }
+      ]
+      },
+    ],
+    "recipes": [
+      {"menu":[
+        {"title": "Tomatensuppe"},
+        {"time": "15 minutes"},
+        {"complexity": "very easy"},
+        {"ingredients":[
+          {"item":"Tomaten"},
+          {"item":"Zwiebel"}
+        ]},
+        {"tools": [
+          {"tool": "Topf"},
+          {"tool": "Messer"},
+          {"tool": "Pürierstab"}
+        ]},
+        {"cooking":"Die Tomaten in warmen Wasser einige Minuten aufweichen lassen. Die Schale der Tomaten abziehen und in einem Topf pürieren."}
+      ],
+      },
+      {"menu":[
+        {"title": ""},
+        {"time": " minutes"},
+        {"complexity": "very easy"},
+        {"ingredients":[
+          {"item":""},
+          {"item":""}
+        ]},
+        {"tools": [
+          {"tool": ""},
+          {"tool": ""},
+          {"tool": ""}
+        ]},
+        {"cooking":""}
+      ]
+      },
+      {"menu":[
+        {"title": ""},
+        {"time": " minutes"},
+        {"complexity": "very easy"},
+        {"ingredients":[
+          {"item":""},
+          {"item":""}
+        ]},
+        {"tools": [
+          {"tool": ""},
+          {"tool": ""},
+          {"tool": ""}
+        ]},
+        {"cooking":""}
+      ]
+      }
+    ]
+  }
+}
